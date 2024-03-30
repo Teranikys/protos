@@ -1,1 +1,1 @@
-module proto
+module protos
